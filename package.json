@@ -1,0 +1,29 @@
+{
+  "name": "skyer-mongo-client-component",
+  "version": "0.1.0",
+  "description": "Skyer mongo client component",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skyerjs/mongo-client-component.git"
+  },
+  "keywords": [
+    "skyer",
+    "component",
+    "mongo",
+    "client",
+    "mongodb"
+  ],
+  "author": "jerrywu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/skyerjs/mongo-client-component/issues"
+  },
+  "homepage": "https://github.com/skyerjs/mongo-client-component#readme",
+  "dependencies": {
+    "mongodb": "^2.2.4"
+  }
+}
