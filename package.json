@@ -1,6 +1,6 @@
 {
   "name": "skyer-mongo-client-component",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Skyer mongo client component",
   "main": "index.js",
   "scripts": {
