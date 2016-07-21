@@ -32,11 +32,15 @@ hello!
 
 ## Options
 
-See `mongodb` options (https://github.com/luin/ioredis/blob/master/API.md#new-redisport-host-options)
+See `mongodb` [connection options](https://github.com/luin/ioredis/blob/master/API.md#new-redisport-host-options)
 
 ## Mongodb Api
 
 http://mongodb.github.io/node-mongodb-native/2.2/api/
+
+## Example
+
+See [skyer-example](https://github.com/skyerjs/skyer-example)
 
 ## Licences
 
